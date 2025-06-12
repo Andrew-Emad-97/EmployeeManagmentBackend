@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "9tuILxbZd8DBEkrebB3nasQuhbHLpqiaRjPVO9EVmMY=",
+  "Source": "EmployeeManagement.API",
+  "BasePath": "_content/EmployeeManagement.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EmployeeManagement.API\\wwwroot",
+      "Source": "EmployeeManagement.API",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\ITI\\Projects\\WPFConsumer\\EmployeeManagement.API\\wwwroot\\",
+      "BasePath": "_content/EmployeeManagement.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
